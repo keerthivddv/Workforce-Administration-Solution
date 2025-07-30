@@ -13,4 +13,4 @@ It serves as a centralized system for:
 - Monitoring employee performance
 - Keeping records of assigned assets
 ## 🎥 Demo Video
-[![Preview Now](https://img.shields.io/badge/Preview-Video-blueviolet)](https://drive.google.com/file/d/1eyIaN0XK2_FSkMeu2T4RKaRzcc5yfWi3/preview)
+[![Preview Now](https://img.shields.io/badge/Preview-Video-blueviolet)](WAS Demo.html)
