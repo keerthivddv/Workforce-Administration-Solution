@@ -13,4 +13,4 @@ It serves as a centralized system for:
 - Monitoring employee performance
 - Keeping records of assigned assets
 ## 🎥 Demo Video
-[![Preview Now](https://img.shields.io/badge/Preview-Video-blueviolet)](https://github.com/keerthivddv/Workforce-Administration-Solution/blob/646e6f8813b7778ec4d6ebbe4591f6a1a75f3078/WAS%20Demo.html)
+[![Preview Now](https://img.shields.io/badge/Preview-Video-blueviolet)](https://keerthivddv.github.io/Workforce-Administration-Solution/WAS%20Demo.html)
