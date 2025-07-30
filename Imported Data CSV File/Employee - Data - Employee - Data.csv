@@ -1,0 +1,15 @@
+Employee Name,,Date of Birth,Gender,Qualification,Address,Experience,Phone no,Email,,Joining date,Mode of Work,Cab Allowance,Food Allowances,Wifi Allowances,Cab Allowance Amount,Food Allowance Amount,Wifi Allowance Amount,,Login Time,,Logout Time,LinkedIn Profile
+Jackie Chan,1/1/1993,1993-01-01,Male,B.Tech,,9,7995434750,jackie@abc.com,12/5/2012,2012-12-05,On Site,TRUE,TRUE,FALSE,"1,000.00","1,000.00",,9:00:00,09:00:00.000Z,17:00:00,17:00:00.000Z,https://www.linkedin.com/in/jackie
+James,2/27/1998,1998-02-27,Male,B.Tech,,6,7995434751,james@abc.com,5/12/2017,2017-05-12,Remote,FALSE,FALSE,TRUE,,,500,,00:00:00.000Z,,00:00:00.000Z,https://www.linkedin.com/in/james
+Benjamin,3/16/1999,1999-03-16,Male,B.Com,,5,7995434752,benjamin@abc.com,9/14/2018,2018-09-14,Remote,FALSE,FALSE,TRUE,,,500,,00:00:00.000Z,,00:00:00.000Z,https://www.linkedin.com/in/benjamin
+Alexander,7/14/2001,2001-07-14,Male,B.Tech,,2,7995434753,alex@abc.com,5/15/2021,2021-05-15,On Site,TRUE,TRUE,FALSE,"1,000.00","1,000.00",,9:00:00,09:00:00.000Z,17:00:00,17:00:00.000Z,https://www.linkedin.com/in/alex
+William,5/11/2002,2002-05-11,Male,B.Tech,,2,7995434754,william@abc.com,5/20/2021,2021-05-20,On Site,TRUE,TRUE,FALSE,"1,000.00","1,000.00",,9:00:00,09:00:00.000Z,17:00:00,17:00:00.000Z,https://www.linkedin.com/in/william
+Ethan,11/11/1995,1995-11-11,Male,B.Com,,2,7995434755,ethan@abc.com,2/27/2021,2021-02-27,On Site,TRUE,TRUE,FALSE,"1,000.00","1,000.00",,9:00:00,09:00:00.000Z,17:00:00,17:00:00.000Z,https://www.linkedin.com/in/ethan
+Emma,11/29/1998,1998-11-29,Female,B.Tech,,3,7995434756,emma@abc.com,11/13/2020,2020-11-13,Remote,FALSE,FALSE,TRUE,,,500,,00:00:00.000Z,,00:00:00.000Z,https://www.linkedin.com/in/emma
+Olivia,3/8/2002,2002-03-08,Female,B.Tech,,3,7995434757,olivia@abc.com,8/19/2020,2020-08-19,Remote,FALSE,FALSE,TRUE,,,500,,00:00:00.000Z,,00:00:00.000Z,https://www.linkedin.com/in/olivia
+Sophia,3/27/2000,2000-03-27,Female,B.Tech,,2,7995434758,sophia@abc.com,3/19/2021,2021-03-19,Remote,FALSE,FALSE,TRUE,,,500,,00:00:00.000Z,,00:00:00.000Z,https://www.linkedin.com/in/sophia
+Isabella,6/17/1996,1996-06-17,Female,B.Com,,7,7995434759,isabella@abc.com,1/1/2016,2016-01-01,On Site,TRUE,TRUE,FALSE,"1,000.00","1,000.00",,9:00:00,09:00:00.000Z,17:00:00,17:00:00.000Z,https://www.linkedin.com/in/isabella
+Amelia,9/19/1999,1999-09-19,Female,B.Tech,,2,7995434760,amelia@abc.com,9/19/2021,2021-09-19,On Site,TRUE,TRUE,FALSE,"1,000.00","1,000.00",,9:00:00,09:00:00.000Z,17:00:00,17:00:00.000Z,https://www.linkedin.com/in/amelia
+Elizabeth,5/24/1999,1999-05-24,Female,B.Tech,,2,7995434761,elizabeth@abc.com,2/27/2021,2021-02-27,Remote,FALSE,FALSE,TRUE,,,500,,00:00:00.000Z,,00:00:00.000Z,https://www.linkedin.com/in/elizabeth
+Scarlett,7/3/1998,1998-07-03,Female,B.Com,,3,7995434762,scarlett@abc.com,3/15/2020,2020-03-15,Remote,FALSE,FALSE,TRUE,,,500,,00:00:00.000Z,,00:00:00.000Z,https://www.linkedin.com/in/scarlett
+Chloe,7/9/2000,2000-07-09,Female,B.Tech,,1,7995434763,chloe@abc.com,9/22/2022,2022-09-22,On Site,TRUE,TRUE,FALSE,"1,000.00","1,000.00",,9:00:00,09:00:00.000Z,17:00:00,17:00:00.000Z,https://www.linkedin.com/in/chole
