@@ -12,3 +12,5 @@ It serves as a centralized system for:
 - Tracking the number of projects an employee is working on
 - Monitoring employee performance
 - Keeping records of assigned assets
+### Demo Video
+<iframe src="https://drive.google.com/file/d/1eyIaN0XK2_FSkMeu2T4RKaRzcc5yfWi3/preview" width="640" height="480" allow="autoplay"></iframe>
