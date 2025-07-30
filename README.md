@@ -12,5 +12,10 @@ It serves as a centralized system for:
 - Tracking the number of projects an employee is working on
 - Monitoring employee performance
 - Keeping records of assigned assets
+
+| Screenshot A | Screenshot B |
+|--------------|--------------|
+| ![A](Screenshots/Screenshot 2025-07-31 025215.png) | ![B](Screenshots/Screenshot 2025-07-31 030239.png) |
+
 ## 🎥 Demo Video
 [![Preview Now](https://img.shields.io/badge/Preview-Video-blueviolet)](https://keerthivddv.github.io/Workforce-Administration-Solution/WAS%20Demo.html)
