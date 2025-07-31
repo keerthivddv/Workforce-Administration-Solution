@@ -13,7 +13,7 @@ It serves as a centralized system for:
 - Monitoring employee performance
 - Keeping records of assigned assets<br>
 
-### 🚀 Project Highlights
+### 📊 Project Highlights
 #### 🛠 Technologies & Tools Used
 - Salesforce Lightning Platform  
 - Object Manager  
@@ -44,10 +44,28 @@ It serves as a centralized system for:
 |--------------|--------------|      
 |![A](https://github.com/keerthivddv/Workforce-Administration-Solution/blob/faa831640556140a4184a301e3895452307dbbb4/Screenshots/Screenshot%202025-07-31%20025215.png) |![B](https://github.com/keerthivddv/Workforce-Administration-Solution/blob/faa831640556140a4184a301e3895452307dbbb4/Screenshots/Screenshot%202025-07-31%20030239.png) |
 
-### 🧠 Conclusion
+## 🧠 Conclusion
 <p>The Workforce Administration Solution project successfully demonstrates how Salesforce can be utilized to streamline and automate key HR operations within an organization. By configuring custom objects, establishing secure data relationships, and implementing user roles, profiles, reports, and dashboards, the project provides a functional and scalable framework for managing employee data efficiently.
 
 This hands-on experience enhanced my understanding of Salesforce fundamentals and provided real-time exposure to CRM-based application development. It has strengthened my ability to design, build, and present practical solutions that align with business needs. </p>
 
 ## 🎥 Demo Video
-[![Preview Now](https://img.shields.io/badge/Preview-Video-blueviolet)](https://keerthivddv.github.io/Workforce-Administration-Solution/WAS%20Demo.html)
+[![Preview Now](https://img.shields.io/badge/Preview-Video-blueviolet)](https://keerthivddv.github.io/Workforce-Administration-Solution/WAS%20Demo.html) 
+
+## 🚀 Get Started: Install Workforce Administration App
+
+Ready to supercharge your org? Just a few clicks and you're in!
+
+> 🛠️ Recommended: Install for Admins Only to configure before assigning to users.
+
+[![Install Now](https://img.shields.io/badge/Install-Workforce_Administration_Solution_App-blue?style=for-the-badge&logo=salesforce)](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tgK0000004Hez)
+
+👣 **Installation Steps**
+1. Log in to your Salesforce org
+2. Click the **Install Now** button above<br>or  
+   a)Launch the **Playground Starter App** from the App Launcher  
+   b)Click on **Install a Package**  
+   c)Paste this Package ID: `04tgK0000004Hez`  
+4. Select **“Install for Admins Only”**
+5. Confirm the install and wait for the success message  
+🎉 That’s it! You’re good to go.
