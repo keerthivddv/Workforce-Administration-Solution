@@ -62,10 +62,7 @@ Ready to supercharge your org? Just a few clicks and you're in!
 
 👣 **Installation Steps**
 1. Log in to your Salesforce org
-2. Click the **Install Now** button above<br>or  
-   a)Launch the **Playground Starter App** from the App Launcher  
-   b)Click on **Install a Package**  
-   c)Paste this Package ID: `04tgK0000004Hez`  
+2. Click the **Install Now** button above (Package ID: `04tgK0000004Hez`)  
 4. Select **“Install for Admins Only”**
 5. Confirm the install and wait for the success message  
 🎉 That’s it! You’re good to go.
